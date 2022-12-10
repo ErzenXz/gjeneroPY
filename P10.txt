@@ -1,0 +1,51 @@
+50
+V 3 phrt hrkw qfpm
+H 4 batq batq rdmw batq
+V 4 rdmw batq batq batq
+H 1 rdmw
+V 5 rdmw whzh rdmw batq whzh
+H 3 rdmw rdmw batq
+H 5 whzh rdmw whzh batq whzh
+V 3 batq rdmw whzh
+H 2 rdmw whzh
+V 4 batq whzh whzh whzh
+V 2 wqcd ghvi
+V 2 cilb pxsg
+H 1 kune
+V 2 kune kune
+V 5 kune kune kune kune pxsg
+H 1 pxsg
+H 5 kune pxsg pxsg cgtp cgtp
+H 5 kune pxsg cgtp pxsg cgtp
+H 1 kune
+V 2 cgtp cgtp
+V 1 njyv
+H 2 gupg qoei
+V 3 pzwr pzwr qwqx
+H 4 msms qwqx pzwr pzwr
+H 4 pzwr qwqx qwqx qwqx
+V 1 msms
+V 3 msms qwqx pzwr
+H 1 pzwr
+H 1 qwqx
+V 3 msms pzwr qwqx
+V 1 cmwu
+H 1 ylvy
+H 1 gjka
+H 4 wynk wynk mnfv mnfv
+V 3 wynk mnfv riog
+V 5 riog wynk mnfv riog wynk
+H 1 mnfv
+H 3 mnfv wynk riog
+V 3 wynk mnfv mnfv
+V 2 wynk riog
+V 3 toyv kzyw dtrh
+V 2 idnw ncoc
+H 4 brdo ncoc ncoc brdo
+H 5 idnw ncoc ncoc brdo idnw
+V 2 idnw idnw
+V 4 brdo ncoc brdo ncoc
+H 3 ncoc brdo brdo
+V 5 idnw idnw idnw ncoc ncoc
+H 3 idnw ncoc brdo
+H 1 ncoc
